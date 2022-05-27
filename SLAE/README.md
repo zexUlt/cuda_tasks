@@ -1,4 +1,6 @@
-This program solves the system of linear equations
+# SLAE Solver
+
+The system of linear equations solver
 
 ## Building
 
